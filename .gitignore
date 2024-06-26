@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vscode
+.DS_Store
+.idea
+upload/
+uploads/**/*.png
+package-lock.json
+.env
+restart.sh
+
+logs/
+
+/src/uploads
+
